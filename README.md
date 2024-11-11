@@ -6,8 +6,11 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Sample](#Sample)
 
-## Introduction
+## Sample
+
+## Introduction to the
 Here is an introduction to the project...
 
 ## Installation
