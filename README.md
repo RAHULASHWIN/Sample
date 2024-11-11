@@ -17,6 +17,9 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+
 <h4 id="login-optional-fields">
 Optional Fields
 </h4>
