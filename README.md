@@ -1,10 +1,23 @@
-# Section Heading
+# Project Title
 
-Some body text of this section.
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
+## Introduction
+Here is an introduction to the project...
 
-(… more content…)
+## Installation
+Steps to install...
 
-[A link to that custom anchor](#my-custom-anchor-point)
+## Usage
+How to use the project...
+
+## Contributing
+Guidelines for contributing...
+
+## License
+License information...
