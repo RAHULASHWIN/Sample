@@ -1,7 +1,7 @@
 # Project Title
 
 ## Table of Contents
-- [Introduction](#introductiontothe)
+- [Introduction](#introduction-to-the)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
